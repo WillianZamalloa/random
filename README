@@ -1,0 +1,14 @@
+Synopsis
+
+Modulo que usa la funcion random() de Math
+Code Example
+
+Math.random();
+
+Motivation
+
+Aprender a utilizar la funcion random
+
+Tests
+
+$node random.js
